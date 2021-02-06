@@ -1,6 +1,6 @@
 {
   "name": "commajs-outline",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Commajs - The WYSIWYG framework -  outline plugin",
   "main": "dist/commajs-outline.min.js",
   "repository": {
